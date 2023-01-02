@@ -29,11 +29,11 @@ const pass1oftwo = [
 ]
 
 const pass2oftwo = [
-    {path:"./belano/input1.txt",name:"input1.txt"},
-    {path:"./belano/length1.txt",name:"length1.txt"},
-    {path:"./belano/optab1.txt",name:"optab1.txt"},
-    {path:"./belano/Pass21.c",name:"Pass21.c"},
-    {path:"./belano/symbol1.txt",name:"symbol1.txt"},
+    {path:"./belano/input.txt",name:"input.txt"},
+    {path:"./belano/length.txt",name:"length.txt"},
+    {path:"./belano/optab.txt",name:"optab.txt"},
+    {path:"./belano/Pass2.c",name:"Pass2.c"},
+    {path:"./belano/symbol.txt",name:"symbol.txt"},
 ]
 
 const relocation = [
