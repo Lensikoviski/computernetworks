@@ -1,0 +1,19 @@
+{
+  "name": "lab",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.18.2",
+    "express-easy-zip": "^1.1.5",
+    "hbs": "^4.2.0",
+    "nodemon": "^2.0.20",
+    "path": "^0.12.7"
+  }
+}

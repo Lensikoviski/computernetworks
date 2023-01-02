@@ -1,0 +1,28 @@
+.container{
+    display: flex;
+    flex-direction: column;
+    text-align: center;
+}
+
+body{
+    background: black;
+   
+}
+
+a{
+    margin-bottom: 10px;
+}
+
+button{
+    width: 195px;
+    background: #927c7c82;
+    color: white;
+    border: none;
+    height: 27px;
+    border-radius: 8px;
+}
+
+h2{
+    color: white;
+}
+
