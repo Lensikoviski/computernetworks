@@ -10,6 +10,7 @@
   "author": "",
   "license": "ISC",
   "dependencies": {
+    "archiver": "^5.3.1",
     "express": "^4.18.2",
     "express-easy-zip": "^1.1.5",
     "hbs": "^4.2.0",
