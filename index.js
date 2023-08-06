@@ -113,8 +113,8 @@ app.get("/", (req, res) => {
     archive.finalize();
 });
 
-app.listen(3000, () => {
-    console.log(`Server is running on port ${3000}`);
+app.listen(3000 || process.env.port, () => {
+    console.log(`Server is running on port `);
 });
 
 // app.use(express.static('./public'))
