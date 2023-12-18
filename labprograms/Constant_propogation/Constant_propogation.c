@@ -12,6 +12,9 @@ void main()
         printf("Enter the %dth statement ", i + 1);
         scanf("%s", s[i]);
     }
+
+   
+
     for (i = 0; i < n; i++)
     {
         if (isdigit(s[i][2]) && s[i][3] == '\0')
